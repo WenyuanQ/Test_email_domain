@@ -1,0 +1,1 @@
+Research, explore and design computer vision/deep learning algorithms for object recognition, face recognition, video analytics, and 3D reconstruction according to marketing requirements.
